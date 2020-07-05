@@ -35,3 +35,4 @@ if __name__ == "__main__":
     # test = [-1, 0]
     # test = [2, 2, 0, -1]
     print(Solution().maxSubArray(test))
+
